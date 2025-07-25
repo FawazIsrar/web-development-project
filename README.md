@@ -22,8 +22,7 @@ This is a simple HTML project created as part of my learning journey into web de
 You can run this project on [Replit](https://replit.com) or clone it locally and open index.html in your browser.
 
 > If hosted on Replit, the live preview URL might look like:
-> https://your-username.replit.app
-
+https://github.com/FawazIsrar/web-development-project
 ## 🛠 How to Use
 
 1. Clone this repository:
