@@ -1,0 +1,14 @@
+function upDate(previewPic) {
+    document.getElementById("image").style.backgroundImage = "url('" + previewPic.src + "')";
+
+   
+    document.getElementById("image").innerHTML = previewPic.alt.toUpperCase();
+}
+
+function unDo() {
+   
+    document.getElementById("image").style.backgroundImage = "url('')";
+
+  
+    document.getElementById("image").innerHTML = "HOVER OVER AN IMAGE BELOW TO DISPLAY HERE.";
+}
